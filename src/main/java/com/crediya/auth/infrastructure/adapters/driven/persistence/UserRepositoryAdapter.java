@@ -1,10 +1,10 @@
-package com.crediya.auth.infrastructure.adapters.driven.peristence;
+package com.crediya.auth.infrastructure.adapters.driven.persistence;
 
 import com.crediya.auth.domain.model.User;
 import com.crediya.auth.domain.ports.out.UserRepository;
-import com.crediya.auth.infrastructure.adapters.driven.peristence.entity.UserData;
-import com.crediya.auth.infrastructure.adapters.driven.peristence.mapper.UserMapper;
-import com.crediya.auth.infrastructure.adapters.driven.peristence.repository.UserDataRepository;
+import com.crediya.auth.infrastructure.adapters.driven.persistence.entity.UserData;
+import com.crediya.auth.infrastructure.adapters.driven.persistence.mapper.UserMapper;
+import com.crediya.auth.infrastructure.adapters.driven.persistence.repository.UserDataRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;
 import reactor.core.publisher.Mono;

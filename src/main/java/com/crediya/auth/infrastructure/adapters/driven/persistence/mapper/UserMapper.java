@@ -1,7 +1,7 @@
-package com.crediya.auth.infrastructure.adapters.driven.peristence.mapper;
+package com.crediya.auth.infrastructure.adapters.driven.persistence.mapper;
 
 import com.crediya.auth.domain.model.User;
-import com.crediya.auth.infrastructure.adapters.driven.peristence.entity.UserData;
+import com.crediya.auth.infrastructure.adapters.driven.persistence.entity.UserData;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

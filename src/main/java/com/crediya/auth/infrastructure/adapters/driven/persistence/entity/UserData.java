@@ -1,4 +1,4 @@
-package com.crediya.auth.infrastructure.adapters.driven.peristence.entity;
+package com.crediya.auth.infrastructure.adapters.driven.persistence.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
