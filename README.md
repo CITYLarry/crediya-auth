@@ -227,7 +227,7 @@ Este proyecto es parte de la plataforma CrediYa desarrollado por Pragma.
 
 ## Contacto
 
-- **Desarrollador**: CITYLarry
+- **Desarrollador**: Larry Mateo Ramirez C.
 - **Proyecto**: CrediYa Authentication Service
 - **Fecha**: Agosto 2025
 
